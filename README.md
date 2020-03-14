@@ -17,3 +17,5 @@ Result:
 *MEMO: Tested in Linux(Ubuntu)
 
 *MEMO: Test logs for each case are included
+
+*Reference: http://tensorflow.org/tutorials/deep_cnn/
