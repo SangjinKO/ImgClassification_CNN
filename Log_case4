@@ -1,0 +1,31 @@
+kosangjin@kosangjin-15N530-PH7OK:~/models/tutorials/image/cifar10$ python cifar10_train.py
+>> Downloading cifar-10-binary.tar.gz 100.0%
+Successfully downloaded cifar-10-binary.tar.gz 170052171 bytes.
+Filling queue with 20000 CIFAR images before starting to train. This will take a few minutes.
+2017-12-22 00:48:58.914798: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2017-12-22 00:49:01.582252: step 0, loss = 4.67 (453.0 examples/sec; 0.283 sec/batch)
+2017-12-22 00:49:05.099025: step 10, loss = 4.62 (364.0 examples/sec; 0.352 sec/batch)
+2017-12-22 00:49:08.577376: step 20, loss = 4.55 (368.0 examples/sec; 0.348 sec/batch)
+2017-12-22 00:49:12.057153: step 30, loss = 4.42 (367.8 examples/sec; 0.348 sec/batch)
+2017-12-22 00:49:15.536734: step 40, loss = 4.34 (367.9 examples/sec; 0.348 sec/batch)
+.
+.
+.
+2017-12-22 05:59:56.415991: step 49990, loss = 0.79 (364.8 examples/sec; 0.351 sec/batch)
+2017-12-22 06:00:00.224722: step 50000, loss = 0.82 (336.1 examples/sec; 0.381 sec/batch)
+2017-12-22 06:00:03.797968: step 50010, loss = 0.69 (358.2 examples/sec; 0.357 sec/batch)
+.
+.
+.
+017-12-22 11:21:24.504619: step 99950, loss = 0.73 (367.5 examples/sec; 0.348 sec/batch)
+2017-12-22 11:21:28.293316: step 99960, loss = 0.71 (337.8 examples/sec; 0.379 sec/batch)
+2017-12-22 11:21:31.825237: step 99970, loss = 0.75 (362.4 examples/sec; 0.353 sec/batch)
+2017-12-22 11:21:35.562210: step 99980, loss = 0.78 (342.5 examples/sec; 0.374 sec/batch)
+2017-12-22 11:21:41.459648: step 99990, loss = 0.84 (217.0 examples/sec; 0.590 sec/batch)
+kosangjin@kosangjin-15N530-PH7OK:~/models/tutorials/image/cifar10$ python cifar10_eval.py
+2017-12-22 11:29:19.468483: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2017-12-22 11:29:27.412863: precision @ 1 = 0.868
+
+
+
+
