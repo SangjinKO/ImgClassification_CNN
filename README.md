@@ -1,4 +1,4 @@
-# ML_CNN_Image Classification
+# ML_CNN_ImgClass_Tensorflow
 
 Classify images using CNN(Convolutional Neural Network)
 
