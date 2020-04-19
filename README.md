@@ -2,7 +2,7 @@
 
 Classify images using CNN(Convolutional Neural Network)
 
-Dependencies: Tensorflow, keras librosa
+Dependencies: Tensorflow
 
 Data sets: CIFAR10
 - Data :60000 32x32 colour images in 10 classes, with 6000 images per class(50000 training images and 10000 test images)
