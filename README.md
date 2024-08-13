@@ -1,5 +1,7 @@
 # ML_CNN_ImgClass_Tensorflow
 
+Date: 2017.8
+
 Classify images using CNN(Convolutional Neural Network)
 
 Dependencies: Tensorflow
