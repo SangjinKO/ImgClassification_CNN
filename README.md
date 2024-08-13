@@ -1,6 +1,6 @@
 # ML_CNN_ImgClass_Tensorflow
 
-Date: 2017.8
+Date: 2017.12
 
 Classify images using CNN(Convolutional Neural Network)
 
